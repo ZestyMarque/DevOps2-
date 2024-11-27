@@ -36,3 +36,4 @@ services:
 ```
 
 ## 2. Создание "хорошего" Docker Compose файла
+
